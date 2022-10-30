@@ -1,4 +1,5 @@
 function imData=read_file(path_to_file,sframe,num2read,options,im_info)
+% Eunjoo Kang's version
 
 % Reads uncompressed multipage .tiff, .hdf5, .avi or .raw files 
 % Usage:  my_data=read_file('path_to_data_file, start frame, num to read);
